@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Three Happy Kids</string>
+    <string name="login_button">Ingresar</string>
+    <string name="login_loading">Ingresando...</string>
+</resources>
